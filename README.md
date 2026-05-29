@@ -1,7 +1,7 @@
 
 ##  About
 
- Hi, I’m Ronak Fathi, a statistical consultant and educator with a master’s degree in mathematical statistics. I specialize in probability, probability and statistical modeling, and applied statistical analysis using R, Python, and SPSS.
+ Hi, I’m Ronak Fathi, a statistical consultant and educator with a master’s degree in mathematical statistics. I specialize in applied probability, statistical modeling, and applied statistical analysis using R, Python, and SPSS.
 
 Across my work, whether analyzing random recursive trees, forecasting environmental phenomena, or modeling health and behavioral outcomes, I focus on modeling uncertainty, dependence, and variation in complex systems using both theoretical and computational approaches. This unifying theme bridges my theoretical research with applied projects and ensures that insights are both rigorous and actionable.
 
