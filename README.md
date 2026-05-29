@@ -16,9 +16,9 @@ I’m currently exploring interdisciplinary applications of statistical modeling
 - [ About](#about)
 - [ Projects](#projects)
   - Health & Psychology
-  - Finance & Economics
   - Environmental & Infrastructure
   - Behavioral & Social
+  - Finance & Economics
   - Consulting & Education
 - [ Certificates](#certificates)
 - [📬 Contacts](#contacts)
@@ -41,16 +41,6 @@ I’m currently exploring interdisciplinary applications of statistical modeling
 - [Cognitive Load & Reaction Time](https://github.com/RoniF-pixel/R-projects/tree/main/Cognitive%20Load%20%26%20Decision-Making%20Using%20Reaction%20Time%20Data)(`R`)
   Analyzed experimental data on cognitive performance under varying conditions.
 
-### Finance & Economics
-- [Store Sales Forecasting – Time Series Modeling](https://github.com/RoniF-pixel/Python-Projects/tree/main/Store%20Analysis)(`Python`)
-  Forecasted sales using ARIMA/SARIMA models, capturing seasonality and trends for business planning.
-- [Automatidata – Predicting Customer Tipping Behavior](https://github.com/RoniF-pixel/Projects/tree/main/Automatidata)(`Python`)
-  Modeled tipping patterns to understand consumer behavior and microeconomic decision-making.
-    - [Automatidata Visualization](https://public.tableau.com/app/profile/ronak.fathi/viz/Automatidataproject_17092831021750/Sheet2)(`Tableau`)
-- [Waze – Predicting High-Risk Churn Segments](https://github.com/RoniF-pixel/Projects/tree/main/Waze)(`Python`)
-  Identified user segments likely to churn, supporting market retention strategies.
-- [Salifort Motors – Job Satisfaction Analysis](https://github.com/RoniF-pixel/Python-Projects/tree/main/Salifort-Motors)(`Python`)
-  Investigated the relationship between employee satisfaction and organizational outcomes, framed as labor economics.
 
 ### Environmental & Infrastructure
 - [Lightning Strike Forecasting – Time Series Modeling with SARIMA](https://github.com/RoniF-pixel/Python-Projects/tree/main/Strikes-Analysis)(`Python`)
@@ -63,6 +53,17 @@ I’m currently exploring interdisciplinary applications of statistical modeling
 - [TikTok – Identifying Claims vs. Opinions](https://github.com/RoniF-pixel/Projects/tree/main/TikTok)(`Python`)
   Classified social media content to distinguish factual claims from opinions, with applications in sentiment analysis and behavioral research.
     - [TikTok Visualization](https://public.tableau.com/app/profile/ronak.fathi/viz/TikTokProject_17092911172030/Story1)(`Tableau`)
+
+### Finance & Economics
+- [Store Sales Forecasting – Time Series Modeling](https://github.com/RoniF-pixel/Python-Projects/tree/main/Store%20Analysis)(`Python`)
+  Forecasted sales using ARIMA/SARIMA models, capturing seasonality and trends for business planning.
+- [Automatidata – Predicting Customer Tipping Behavior](https://github.com/RoniF-pixel/Projects/tree/main/Automatidata)(`Python`)
+  Modeled tipping patterns to understand consumer behavior and microeconomic decision-making.
+    - [Automatidata Visualization](https://public.tableau.com/app/profile/ronak.fathi/viz/Automatidataproject_17092831021750/Sheet2)(`Tableau`)
+- [Waze – Predicting High-Risk Churn Segments](https://github.com/RoniF-pixel/Projects/tree/main/Waze)(`Python`)
+  Identified user segments likely to churn, supporting market retention strategies.
+- [Salifort Motors – Job Satisfaction Analysis](https://github.com/RoniF-pixel/Python-Projects/tree/main/Salifort-Motors)(`Python`)
+  Investigated the relationship between employee satisfaction and organizational outcomes, framed as labor economics.
 
 ###  Consulting & Education
 - [Student Projects Portfolio](https://github.com/RoniF-pixel/Student-Projects-Portfolio): A collection of mentoring and consulting work in areas like psychology and behavioral science. Includes longitudinal study analyses, survey modeling, and guided workflows developed with students.
