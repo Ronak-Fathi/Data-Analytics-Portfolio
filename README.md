@@ -31,7 +31,7 @@ I’m currently exploring interdisciplinary applications of statistical modeling
 - [COVID-19 – Predicting Patient Risk Urgency](https://github.com/RoniF-pixel/Projects/tree/main/Covid-19)(`Python`)
   Built a predictive model to classify patient risk using demographic and symptom data.
 - [Mental Health Trends During COVID-19](https://github.com/RoniF-pixel/R-projects/tree/main/Covid)(`R`)
-   Modeled non-linear temporal trends in anxiety and depression using GAMs, mixed models, and multivariate analysis.
+   Examined changes in anxiety and depressive symptoms across U.S. age and racial/ethnic groups (2020–2024), using absolute and relative disparity measures, GAMs, linear trends, and temporal model comparisons.
 - [Heart Disease Risk Prediction](https://github.com/RoniF-pixel/R-projects/tree/main/Heart%20Rate)(`R`)
   Applied classification models to predict heart disease risk from patient data.
 - [Stroke Prediction](https://github.com/RoniF-pixel/R-projects/tree/main/Stroke%20Prediction)(`R`)
